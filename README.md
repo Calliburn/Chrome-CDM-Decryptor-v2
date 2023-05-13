@@ -13,3 +13,8 @@ Chrome CDM Decryptor v2
 ```sh
 Check the README.txt
 ```
+
+![image](https://github.com/Calliburn/Chrome-CDM-Decryptor-v2/assets/133517899/8711a559-2134-4790-b301-ac268cd046a1)
+
+![image](https://github.com/Calliburn/Chrome-CDM-Decryptor-v2/assets/133517899/6eec4b5e-589f-478d-88fc-a1c0263d0259)
+
